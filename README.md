@@ -72,7 +72,7 @@ housing-price-predictor/
 ### 1. Clone and install dependencies
 
 ```bash
-git clone https://github.com/rahul/housing-price-predictor.git
+git clone https://github.com/rahul25012003/housing-price-predictor.git
 cd housing-price-predictor
 pip install -r requirements.txt
 ```
